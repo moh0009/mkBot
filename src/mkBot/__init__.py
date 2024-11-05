@@ -3,5 +3,5 @@
 #   Licensed under the MIT License. See LICENSE in project root for information.
 #   -------------------------------------------------------------
 """Python Package Template"""
-import mkBot
-__version__ = "1.0"
+from mkBot import *
+__version__ = "1.0.0"

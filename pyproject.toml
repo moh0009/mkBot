@@ -1,7 +1,7 @@
 [project]
 name = "mkBot"
 dependencies = ["pyTelegramBotAPI"]
-version = "1.0"
+version = "1.0.0"
 
 authors = [
   { name="moh0009", email="23ii.mancy@gmail.com" },
