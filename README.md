@@ -4,7 +4,7 @@
 
 ```python
 import telebot
-import mkBot
+from mkBot import mkBot
 from telebot.types import InlineKeyboardButton
 
 # bot
