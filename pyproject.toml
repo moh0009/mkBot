@@ -1,9 +1,12 @@
 [project]
-name = "example_package_YOUR_USERNAME_HERE"
-version = "0.0.1"
+name = "mkBot"
+dependencies = ["pyTelegramBotAPI"]
+version = "1.0"
+
 authors = [
-  { name="Example Author", email="23ii.mancy@gmail.com" },
+  { name="moh0009", email="23ii.mancy@gmail.com" },
 ]
+
 description = "An easy way to crate inline Telegram bots and you can get json file from the user answers"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -13,5 +16,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = ""
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/moh0009/mkBot"
+Issues = "https://github.com/moh0009/mkBot/issues"

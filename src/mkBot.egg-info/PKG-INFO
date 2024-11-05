@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: mkBot
+Version: 1.0
+Summary: An easy way to crate inline Telegram bots and you can get json file from the user answers
+Author-email: moh0009 <23ii.mancy@gmail.com>
+Project-URL: Homepage, https://github.com/moh0009/mkBot
+Project-URL: Issues, https://github.com/moh0009/mkBot/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyTelegramBotAPI
+
 ### MkBot is an easy way to crate inline Telegram bots and you can get json file from the user answers
 
 ### usage example
